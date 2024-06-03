@@ -107,3 +107,6 @@ The backend development team have done the analysis and below are the key points
 
 #### Test Code
 1. Test the solution locally by running the command `npm run test`. 
+
+### Solution 
+![image](https://github.com/skp3214/Pin2Piano-OnlineShoppingSite-RESTful-API-Express-MongoDB/assets/95349420/0eb58a62-bb5c-4c5f-8429-01c432aafac7)
