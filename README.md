@@ -1,4 +1,7 @@
 ## Challenge :: Pin2Piano (165 mins)
+### API Documentation Screenshot
+![image](https://github.com/skp3214/Pin2Piano-OnlineShoppingSite-RESTful-API-Express-MongoDB/assets/95349420/95d12476-2c54-4969-b400-9395a4a88875)
+- **URL for Published Documentation:** [Pin2Piano Postman Documentation](https://documenter.getpostman.com/view/28435268/2sA3Qy5984)
 
 ### Introduction
 
@@ -107,6 +110,3 @@ The backend development team have done the analysis and below are the key points
 
 #### Test Code
 1. Test the solution locally by running the command `npm run test`. 
-
-### Solution 
-![image](https://github.com/skp3214/Pin2Piano-OnlineShoppingSite-RESTful-API-Express-MongoDB/assets/95349420/0eb58a62-bb5c-4c5f-8429-01c432aafac7)
